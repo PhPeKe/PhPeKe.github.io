@@ -1,0 +1,17 @@
+# BRON: KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT (KNMI)
+# https://cdn.knmi.nl/knmi/map/page/klimatologie/gegevens/maandgegevens/mndgeg_240_rh24.txt
+# RH = Gemiddelde 0.1mm regen per maand
+# STN,MAAND,   RH
+#
+  260,JAN,    549
+  260,FEB,    382
+  260,MAR,    385
+  260,APR,    191
+  260,MAY,    517
+  260,JUN,    946
+  260,JUL,    268
+  260,AUG,    487
+  260,SEP,    237
+  260,OCT,    323
+  260,NOV,    656
+  260,DEC,    249
