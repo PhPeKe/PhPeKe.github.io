@@ -1,0 +1,20 @@
+h1.Title{
+  font: 40px garamond;
+  color: black;
+  text-align: center;
+}
+
+.axis--x path {
+  display: none;
+}
+
+.graph {
+  display: block;
+  margin: auto;
+}
+
+div.link {
+  font: 20px sans-serif;
+  text-align: center;
+  background-color: white;
+}
