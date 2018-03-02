@@ -1,0 +1,38 @@
+body {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.title {
+  font: 40px garamond;
+  color: black;
+  text-align: center;
+}
+
+.graph {
+  display: block;
+  margin: auto;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 180px;
+    height: 55px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: white;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
