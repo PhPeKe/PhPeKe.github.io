@@ -34,7 +34,10 @@ var svg = d3.select("body").append("svg")
 
 d3.select("body").append("div")
     .attr("class", "source")
-    .html("Jeffrey, K., Wheatley, H., Abdallah, S. (2016)  The Happy Planet Index: 2016.  A global index of sustainable well-being. London: New Economics Foundation.");
+    .html("Jeffrey, K., Wheatley, H., Abdallah, S. (2016)"
+    +" The Happy Planet Index: 2016. "
+    +" A global index of sustainable well-being. London:"
+    +" New Economics Foundation.");
 
 d3.select("body").append("div")
     .attr("class", "subtitle")
